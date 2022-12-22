@@ -4,7 +4,7 @@ const { title, img, desc, url, badge, tags, target = '_blank' } = Astro.props;
 
 <div className="card w-96 bg-base-300 shadow-xl">
   <a href={url} target={target}>
-  <div className="card-body">
+  <div className="card-body items-center text-center">
       <img src={img} alt={title} class="max-w-fit md:max-w-[13rem] rounded-md" />
     <div className="card-title">
           {title}
