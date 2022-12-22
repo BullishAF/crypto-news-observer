@@ -10,4 +10,4 @@ checkoutUrl: "https://commerce.coinbase.com/checkout/c1222feb-76cc-4f4d-8c04-0ad
 heroImage: "/crypto.jpg"
 ---
 
-30 day Ad on the premium front page spot for $500
+30 day premium front page ad spot for $500
