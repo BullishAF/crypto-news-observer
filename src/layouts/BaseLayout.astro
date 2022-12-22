@@ -15,8 +15,7 @@ const { image, title = SITE_TITLE, description = SITE_DESCRIPTION } = Astro.prop
     <BaseHead title={title} description={description} image={image} />
   </head>
   <body>
-    <script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
-<coingecko-coin-price-marquee-widget  coin-ids="bitcoin,ethereum,binancecoin,dogecoin,avalanche-2,matic-network,solana,cardano,shiba-inu" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>    <div class="bg-base-100 drawer drawer-mobile">
+   <div class="bg-base-100 drawer drawer-mobile">
       <input id="my-drawer" type="checkbox" class="drawer-toggle" />
       <div class="drawer-content flex flex-col bg-base-100">
         <Header title={SITE_TITLE} />
