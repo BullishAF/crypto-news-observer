@@ -6,6 +6,8 @@ pubDate: "Dec 21 2022"
 heroImage: "/sbf.jpg"
 ---
 
-Sam Bankman-Fried has been extradicted and is now officially in the custody of the US government. He is due to land in New York and will most likely appear in front of a U.S. judge on Thursday and his lawyers are expected to request that the 30 year old former FTX CEO be released on bail under certain conditions.
+Sam Bankman-Fried has been extradicted and is now officially in the custody of the US government. He is due to land in New York and will most likely appear in front of a U.S. judge on Thursday where his lawyers are expected to request that the former FTX CEO be released on bail under certain conditions.
 
-Bahamian authorities arrested Bankman-Fried last week at the request of the U.S. government. U.S. prosecutors indicted him over the collapse of FTX and defrauding customers and investors in FTX of Billions of Dollars. Bankman-Fried was denied bail Friday after a Bahamian judge ruled that he posed a flight risk, if the 30-year-old founder and former CEO of FTX is found guilty on all charges, he could potentially spend the rest of his life in jail.
+Bahamian authorities arrested Bankman-Fried last week at the request of the U.S. government. U.S. prosecutors indicted him on eight charges over the collapse of the crypto exchange FTX, defrauding customers and investors of FTX. Bankman-Fried was denied bail Friday after a Bahamian judge ruled that he posed a flight risk. 
+
+Initially Bankman-Fried refused to waive his rights to an extradiction but quickly had a change of heart after spending six days inside the Bahamas Fox Hill Prison. If the 30-year-old founder and former CEO of FTX is found guilty on all charges, he could potentially spend the rest of his life in prison.
