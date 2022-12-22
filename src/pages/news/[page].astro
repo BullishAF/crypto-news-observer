@@ -12,10 +12,17 @@ const { page } = Astro.props;
 
 <BaseLayout title = "News">
 	
-  
-  <div class="mb-5">
-    <div class="text-3xl w-full font-bold">Latest News</div>
-  </div>
+ <HorizontalCard
+    title="Coinbase"
+    img="/coinbase.jpg"
+    desc="Visit Coinbase Today"
+    url="https://coinbase.com"
+    badge="Ad"
+   />  
+    
+    <div>
+      <div class="text-3xl w-full font-bold mb-5 mt-10">Latest News</div>
+    </div>
   
   <ul>
     <!--List the array of astronaut info-->
