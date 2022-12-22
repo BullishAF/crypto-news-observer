@@ -10,5 +10,5 @@ checkoutUrl: "https://commerce.coinbase.com/checkout/b3f13a6c-93f7-4d99-9b43-3c3
 heroImage: "/crypto.jpg"
 ---
 
-- **30 day premium ad spot on the News page for $300**
+- **30 day premium ad spot on the News page**
 - **Please be sure to leave the correct E-mail on the payment page, we will contact you thru that E-mail about Ad details within 24 hours of payment**
