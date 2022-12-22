@@ -5,7 +5,7 @@ const { title, img, desc, url, badge, tags, target = '_blank' } = Astro.props;
 <div class="rounded-md bg-base-300 hover:shadow-2xl transition ease-in-out hover:scale-[102%]">
   <a href={url} target={target}>
     <div class="hero-content flex-col md:flex-row">
-      <img src={img} alt={title} class="min-w-fit md:max-w-[13rem] rounded-md" />
+      <img src={img} alt={title} class="min-w-fit md:min-w-[13rem] rounded-md" />
       <div class="grow w-max">
         <h1 class="text-xl font-semibold">
           {title}
