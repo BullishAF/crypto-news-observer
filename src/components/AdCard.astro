@@ -2,20 +2,20 @@
 const { title, img, desc, url, badge, tags, target = '_blank' } = Astro.props;
 ---
 
-<div class="rounded-md bg-base-300 hover:shadow-2xl transition ease-in-out hover:scale-[102%]">
+<div className="card w-96 bg-base-100 shadow-xl">
   <a href={url} target={target}>
-    <div class="hero-content flex-col md:flex-row">
+  <div className="card-body">
       <img src={img} alt={title} class="min-w-fit md:min-w-[13rem] rounded-md" />
-      <div class="grow w-max">
-        <h1 class="text-xl font-semibold">
+    <div className="card-title">
           {title}
           {badge && <div class="badge badge-secondary mx-2">{badge}</div>}
-        </h1>
         <p class="py-1 text-1xl">{desc}</p>
         <div class="card-actions justify-end">
           {tags && tags.map((tag) => <div class="badge badge-outline">{tag}</div>)}
         </div>
       </div>
     </div>
+    </div>
+  </div>
   </a>
 </div>
