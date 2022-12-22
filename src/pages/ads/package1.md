@@ -8,7 +8,7 @@ custom_link: "https://demourl.com/"
 pubDate: "Dec 21 2022"
 pricing: "$200"
 badge: "Best Offer"
-checkoutUrl: "https://checkouturl.com/"
+checkoutUrl: "https://commerce.coinbase.com/checkout/c1222feb-76cc-4f4d-8c04-0ad653611b0c"
 heroImage: "/itemPreview.png"
 ---
 
