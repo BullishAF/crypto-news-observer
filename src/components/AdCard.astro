@@ -2,10 +2,10 @@
 const { title, img, desc, url, badge, tags, target = '_blank' } = Astro.props;
 ---
 
-<div className="card w-96 bg-base-100 shadow-xl">
+<div className="card w-96 bg-base-300 shadow-xl">
   <a href={url} target={target}>
   <div className="card-body">
-      <img src={img} alt={title} class="min-w-fit md:min-w-[13rem] rounded-md" />
+      <img src={img} alt={title} class="max-w-fit md:max-w-[13rem] rounded-md" />
     <div className="card-title">
           {title}
           {badge && <div class="badge badge-secondary mx-2">{badge}</div>}
