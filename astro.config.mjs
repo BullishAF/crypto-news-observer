@@ -6,6 +6,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://crypto-news-observer.vercel.app',
+  site: 'https://on-chain.news',
   integrations: [mdx(), sitemap(), tailwind()]
 });
