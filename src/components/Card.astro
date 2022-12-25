@@ -2,7 +2,7 @@
 const { title, img, desc, url, badge, tags, target = '_blank' } = Astro.props;
 ---
 
-<div class="md:w-2/3 w-full">
+<div class="w-96">
   <a href={url} target={target}>
     <div class="card bg-base-200 transition ease-in-out hover:shadow-2xl mx-6 my-2 hover:scale-[102%]">
       <figure><img src={img} alt="Shoes" /></figure>
