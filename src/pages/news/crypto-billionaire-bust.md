@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/PostLayout.astro"
 title: "Crypto Billionaires go bust"
-description: "Crypto Billionaires have lost $116 Billion since March"
+description: "Crypto Billionaires have lost $116 Billion in wealth since March according to a report from Forbes"
 pubDate: "Dec 26 2022"
 heroImage: "/cryptobust.jpg"
 ---
