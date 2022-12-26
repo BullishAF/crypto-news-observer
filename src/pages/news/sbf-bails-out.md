@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Sam Bankman-Fried posts bail for $250 Million"
+title: "Sam Bankman-Fried released on bail, placed on house arrest at parents home"
 description: "Sam Bankman-Fried has posted the $250 Million Dollars bail and will be under house arrest at his parents home in Palo Alto"
 pubDate: "Dec 22 2022"
 heroImage: "/sbfbail.jpg"
