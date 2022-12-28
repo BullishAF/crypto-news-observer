@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Avraham Eisenberg the Mango Markets manipulator arrested in Puerto Rico charged over Mango Markets attack "
+title: "Avraham Eisenberg the Mango Markets manipulator arrested in Puerto Rico charged over Mango Markets attack"
 description: "Avi Eisenberg is accused of manipulating Mango Markets token MNGO price."
 heroImage: "avi.jpg"
 pubDate: "Dec 28 2022"
