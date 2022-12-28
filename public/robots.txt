@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://on-chain.news/sitemap-index.xml
+Sitemap: https://www.on-chain.news/sitemap-index.xml
