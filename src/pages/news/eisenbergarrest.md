@@ -13,5 +13,3 @@ Eisenberg made the somewhat head-scratching decision and admitted in a twitter p
 The MNGO token was then used as “collateral” on the exchange in order to borrow USDC with no intent to repay the loan which left Mango Markets with bad debt and users on the exchange unable to redeem funds. Although the initial exploit was for over $114 Million, afterwards Eisenberg proposed a settlement agreement with the goal of making all Mango Market users whole, as well as recapitalizing the Mango Market exchange.
 
 The Mango Market DAO, voted in favor of Eisenberg’s settlement agreement and $67 million was returned to the exchange. Eisenberg kept the remaining $47 million and is now charged with commodities fraud and market manipulation. Mango Market isn’t the only exploit Eisenberg is accused of being behind, as he is also allegedly the exploiter behind DeFi lending protocol Aave being left in $1.7 million of bad debt as well as embezzling $14 million from Fortress DAO back in Febuary.
-
-©
