@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Judge who's handled high profile cases will oversee Sam Bankman-Fried case "
+title: "Judge who's handled high profile cases will oversee Sam Bankman-Fried case"
 description: "U.S. District Judge Lewis Kaplan replaced his colleague Ronnie Abrams, after Abrams recused herself."
 heroImage: "sbfjudge.jpg"
 pubDate: "Dec 28 2022"
