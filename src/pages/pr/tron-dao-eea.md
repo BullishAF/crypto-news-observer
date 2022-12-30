@@ -19,3 +19,11 @@ TRON blockchain Founder, H.E. Justin Sun said in a statement
 The EEA’s membership base represents companies from every region of the world. The EEA’s Interest Groups, Working Groups, and events bring together the top Ethereum and global business leaders, technologists, and industry experts to learn about the latest business reference implementations, real-world use cases, and technical innovations. 
 
 The EEA’s educational primers, designed specifically for non-technical entrants to the Ethereum ecosystem, offer introductions to many of the different concepts and facets of Ethereum, and blockchain as a whole, to help more professionals get started on the platform.
+
+
+
+
+- *Disclaimer*: 
+>
+> *Press Releases are paid for by advertising firms, PR firms, or other marketing agencies and offered to advertisers and PR firms to help fund the day-to-day business operations at On-Chain News. If you believe a press release is fraudulent please contact us at <admin@on-chain.news>*
+	 
