@@ -6,6 +6,12 @@ const posts = (await Astro.glob("./news/*.{md,mdx}")).sort(
   (a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf()
 );
 
+const pr = (await Astro.glob("./pr/*.{md,mdx}")).sort(
+  (a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf()
+);
+
+const last_pr = posts.slice(0, 3);
+
 const last_posts = posts.slice(0, 3);
 ---
 
@@ -32,4 +38,18 @@ const last_posts = posts.slice(0, 3);
       ))
     }
 
+  
+   {
+      last_pr.map((pr) => (
+        <HorizontalCard
+          title={pr.frontmatter.title}
+          img={pr.frontmatter.heroImage}
+          desc={pr.frontmatter.description}
+          url={pr.url}
+          target="_self"
+        />
+        <div class="divider my-0"></div>
+      ))
+    }
+  
 </BaseLayout>
