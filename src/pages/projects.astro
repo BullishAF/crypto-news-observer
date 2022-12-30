@@ -3,26 +3,22 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import HorizontalCard from "../components/HorizontalCard.astro";
 ---
 
-<BaseLayout title = "Projects">
+<BaseLayout title = "pr">
   
   <div>
-    <div class="text-2xl w-full font-bold mb-5 mt-10">Featured Projects</div>
+    <div class="text-2xl w-full font-bold mb-5 mt-10">Press Releases</div>
   </div>
   
-  <HorizontalCard
-    title="CryptoFinally DeFi Hub"
-    img="/cryptofinally.webp"
-    desc="CryptoFinally DeFi Hub is a great resource for anyone new getting into defi and crypto"
-    url="https://cryptofinally.io/defi-hub-start-page"
-    badge="NEW"
-   />
-  <div class="divider my-0"></div>
-  <HorizontalCard
-    title="Demo Project 3"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="NEW"
-  />
-  <div class="divider my-0"></div>
-</BaseLayout>
+   {
+      last_pr.map((pr) => (
+        <HorizontalCard
+          title={pr.frontmatter.title}
+          img={pr.frontmatter.heroImage}
+          desc={pr.frontmatter.description}
+          url={pr.url}
+          target="_self"
+        />
+        <div class="divider my-0"></div>
+      ))
+    }
+  </BaseLayout>
