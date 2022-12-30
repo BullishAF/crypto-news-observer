@@ -16,7 +16,7 @@ const { page } = Astro.props;
   <ul>
     <!--List the array of astronaut info-->
     {page.data.map(( pr ) => (
-     <HorizontalShopItem
+     <PRLayout
         title={pr.frontmatter.title}
         img={pr.frontmatter.heroImage}
         desc={pr.frontmatter.description}
