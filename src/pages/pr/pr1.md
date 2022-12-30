@@ -1,9 +1,9 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Press Release"
-description: "Example Press Release"
-pubDate: "Dec 26 2022"
+title: "Crypto Press Release"
+description: "Example Crypto Press Release"
+pubDate: "Dec 30 2022"
 heroImage: "/crypto.jpg"
 ---
 
-Example Press Release
+This is an example Crypto Press Release
