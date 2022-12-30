@@ -1,6 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import PRCArd from "../../components/PRCArd.astro";
+import HorizontalCard from "../../components/HorizontalCard.astro";
 
 export async function getStaticPaths({ paginate }) {
   const pr = (await Astro.glob("./*.{md,mdx}")).sort(
@@ -16,7 +16,7 @@ const { page } = Astro.props;
   <ul>
     <!--List the array of astronaut info-->
     {page.data.map(( pr ) => (
-     <PRCArd
+     <HorizontalCard
         title={pr.frontmatter.title}
         img={pr.frontmatter.heroImage}
         desc={pr.frontmatter.description}
