@@ -45,11 +45,12 @@ const last_posts = posts.slice(0, 3);
 
   {
       last_pr.map((pr) => (
-        <HorizontalCard
+        <PRCArd
           title={pr.frontmatter.title}
           img={pr.frontmatter.heroImage}
           desc={pr.frontmatter.description}
           url={pr.url}
+          badge={pr.badge}
           target="_self"
         />
         <div class="divider my-0"></div>
