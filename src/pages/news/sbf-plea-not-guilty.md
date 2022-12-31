@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "Report: SBF expected to plead not guilty at hearing next week"
 description: "A report from the Wall Street Journal says SBF is anticipated to enter a not guilty plea to the charges against him"
 pubDate: "Dec 31 2022"
-heroImage: "/sbfftx.jpg"
+heroImage: "/sbfbail.jpg"
 ---
 
 Sam Bankman-Fried is likely to plead not guilty next week to the charges against him according to a report from the Wall Street Journal.
