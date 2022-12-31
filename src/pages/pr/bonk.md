@@ -3,6 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "Welcome the newest memecoin sensation on crypto Twitter - BONK"
 description: "BONK a Solana memecoin is making the rounds on crypto Twitter and gaining popularity"
 pubDate: "Dec 31 2022"
+badge: "HOT"
 heroImage: "/bonk.jpg"
 ---
 
