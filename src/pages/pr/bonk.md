@@ -15,4 +15,4 @@ Although SOL, the native Solana Blockchain token has been hit harder than any cr
 SOL's crash is mostly due to Sam Bankman-Fried and FTX involvement in with the chain before the FTX collaspe. 
 BONK meanwhile is up more than 50% today after hitting an all-time low of $0.000000086142 yesterday Dec. 30th. 
 
-It has a total supply of 99,867,657,417,668(That's *ninety-nine trillion, eight hundred sixty-seven billion, six-hundred-fifty-seven-million, four-hundred-seventeen-thousand, six-hundred and sixty-eight*) whew.  Which is actually less than the Shiba Inu total supply of one-**quadrillion** tokens 😳
+It has a total supply of 99,867,657,417,668(That's *ninety-nine trillion, eight hundred sixty-seven billion, six-hundred-fifty-seven-million, four-hundred-seventeen-thousand, six-hundred and sixty-eight*) whew.  Which is actually less than the Shiba Inu total supply of one-**quadrillion** tokens.
