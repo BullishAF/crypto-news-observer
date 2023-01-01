@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 title: "Binance.us and Voyager deal may be put on hold by US committee"
 description: "May be subject to review by Committee on Foreign Investment"
-pubDate: "Dec 22 2022"
+pubDate: "Jan 01 2023"
 heroImage: "/binance.jpg"
 ---
 
