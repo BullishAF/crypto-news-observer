@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 title: "MUCH WOW! Newest dog-themed memecoin BONK up over 390% in the past three days!"
 description: "BONK, the Solana based memecoin is grabbing the attention of crypto twitter degens"
-pubDate: "Jan 01 2023"
+pubDate: "Jan 02 2023"
 heroImage: "/bonk.jpg"
 ---
 
