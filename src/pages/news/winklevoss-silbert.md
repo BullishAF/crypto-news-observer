@@ -1,9 +1,9 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Gemini co-founder Winklevoss accuses DCG CEO Barry Silbert of 'bad faith stall tactics' in twitter post"
-description: "Genesis Trading allegedly owes $900 Million to Gemini Earn program"
+title: "Gemini co-founder Winklevoss blasts DCG CEO Barry Silbert"
+description: "Claims Silbert is 'engaged in bad faith stall tatics' in open letter on Twitter"
 pubDate: "Jan 02 2023"
-heroImage: "/cameronwinklevoss.jpg"
+heroImage: "/cwinklevoss.jpg"
 ---
 
 Cameron Winklevoss the co-founder of crypto exchange Gemini, posted an "Open Letter" on [Twitter](https://twitter.com/cameron/status/1609913051427524608) addressed to Barry Silbert, the CEO of Digital Currency Group(DCG). 
