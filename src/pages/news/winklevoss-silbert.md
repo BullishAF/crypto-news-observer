@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 title: "Gemini co-founder Winklevoss accuses DCG CEO Barry Silbert of 'bad faith stall tactics' in twitter post"
 description: "Genesis Trading allegedly owes $900 Million to Gemini Earn program"
-pubDate: "Jan 02 2022"
+pubDate: "Jan 02 2023"
 heroImage: "/cameronwinklevoss.jpg"
 ---
 
