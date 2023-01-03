@@ -2,6 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 title: "XT.COM lists AGN"
 description: "The listing of AGN on its XT platform will be in the Main & Web3 Zones."
+badge:
 pubDate: "Jan 03 2023"
 heroImage: "/agn.jpg"
 ---
