@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 title: "Bankrupt 3AC co-Founder says FTX and DCG conspired against their fund"
 description: "Zhu Su says FTX and DCG attacked LUNA and stETH"
-date: Jan 03 2023
+pubDate: "Jan 03 2023"
 heroImage: "/zhusu.jpeg"
 ---
 
