@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "TRON DAO Joins The Enterprise Ethereum Alliance"
 description: "TRON DAO will collaborate with EEA and its members, the leading business adopters, innovators and leaders within the Ethereum ecosystem"
 pubDate: "Dec 30 2022"
-badge: "NEW"
+badge: 
 tag: "Crypto"
 heroImage: "/trondao.jpg"
 ---
