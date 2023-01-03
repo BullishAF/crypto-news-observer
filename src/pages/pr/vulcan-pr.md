@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "Vulcan Blockchain’s Auto-rebasing Layer 1 Set for Release Q1 2023"
 description: "Vulcan Blockchain announced that its’ novel auto-rebasing Layer 1 protocol will launch in early 2023."
 pubDate: "Dec 30 2022"
-badge: "NEW"
+badge: 
 tag: "Crypto"
 heroImage: "/vulcan.jpg"
 ---
