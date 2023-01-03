@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 title: "BONK now up over 1300% from all-time low four days ago"
 description: "BONK the meme-coin on Solana is up 1300% and now sits at #267 in marketcap"
-pubDate: "Jan 03 2022"
+pubDate: "Jan 03 2023"
 heroImage: "/bonk.jpg"
 ---
 
