@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Crypto payments company Wyre rumoured to be shutting down"
+title: "Crypto payments company Wyre rumored to be shutting down"
 description: "CEO says still operating but will be scaling back"
 pubDate: "Jan 04 2023"
 heroImage: "/wyre.png"
