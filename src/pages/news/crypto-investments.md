@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "Venture capital investments in crypto startups hit a 2-year low in Q4 of 2022"
 description: "Investments in crypto startups totaled less than $3 billion on fewer than 400 deals in Q4"
 pubDate: "Jan 05 2023"
-heroImage: "/crypto.jpeg"
+heroImage: "/crypto.jpg"
 ---
 
 According to a new report from Galaxy Digital, investments into crypto startups totaled less than $3 billion on fewer than 400 deals in the fourth quarter of last year, the lowest for both measures since the fourth quarter of 2020.
