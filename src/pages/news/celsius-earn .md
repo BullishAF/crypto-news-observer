@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Judge says Celsius 'Earn' Assets Belong to Bankrupt Crypto Lender"
+title: "Judge says Celsius 'Earn' program assets belong to bankrupt crypto lender"
 description: "Ruling is proof that customers do not legally own their crypto-assets if they're using certain centralized products."
 pubDate: "Jan 05 2023"
 heroImage: "/celcius.jpeg"
