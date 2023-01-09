@@ -17,6 +17,18 @@ const last_posts = posts.slice(0, 3);
 
 <BaseLayout>
   
+  <div id="cr-widget-marquee"
+        data-coins="bitcoin,ethereum,bnb,cardano,dogecoin,matic-network,solana,shiba-inu,avalanche"
+        data-theme="light"
+        data-show-symbol="true"
+        data-show-icon="true"
+        data-show-period-change="true"
+        data-period-change="24H"
+        data-api-url="https://api.cryptorank.io/v0"
+      >
+        <a href="https://cryptorank.io">Coins by Cryptorank</a>
+        <script src="https://cryptorank.io/widget/marquee.js"></script>
+      </div>  
   <div>
       <div class="text-3xl w-full font-bold mb-5 mt-10">Latest News</div>
     </div>
