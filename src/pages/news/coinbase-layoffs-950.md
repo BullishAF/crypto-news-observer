@@ -7,7 +7,7 @@ heroImage: "/coinbase.jpg"
 ---
 
 US crypto exchange Coinbase has announced it's cutting 20% of its employees in a second wave of layoffs.
-Coinbase CEO Brian Armstrong said that Coinbase will cut 950 jobs as part of the company’s measures to reduce the firm’s operating costs by around 25%.
+CEO Brian Armstrong said that Coinbase will cut 950 jobs as part of the company’s measures to reduce the firm’s operating costs by around 25%.
 
 Armstrong also said Coinbase will be shutting down several projects with a “lower probability of success".
 The Company expects execution of the plan to be complete by the second quarter of 2023.
