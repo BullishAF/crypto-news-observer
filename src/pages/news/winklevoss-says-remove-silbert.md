@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/PostLayout.astro"
 title: "Gemini CEO Winklevoss urges DCG board to remove Barry Silbert as CEO"
-description: "Winklevoss says Silbert "unfit" to run company and "no path forward" with him running company"
+description: "Winklevoss says Silbert unfit to run company and no path forward with him running company"
 pubDate: "Jan 10 2023"
 heroImage: "/Winklevoss.jpeg"
 ---
