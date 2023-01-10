@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "Third FTX associate met with prosecutors"
 description: "Former FTX engineering chief Nishad Singh met with federal prosecutors"
 pubDate: "Jan 09 2023"
-heroImage: "/sbfftx.jpeg"
+heroImage: "/sbfftx.jpg"
 ---
 
 Former FTX engineering chief Nishad Singh met with federal prosecutors, becoming the third member of Sam Bankman-Fried’s inner circle at FTX or Alameda Research to cooperate in return for a deal in the fraud case over the cryptocurrency exchange’s collapse.
