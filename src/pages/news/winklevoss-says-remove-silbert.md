@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "Gemini CEO Winklevoss urges DCG board to remove Barry Silbert as CEO"
 description: "Winklevoss says Silbert unfit to run company and no path forward with him running company"
 pubDate: "Jan 10 2023"
-heroImage: "/Winklevoss.jpeg"
+heroImage: "/winklevoss.jpeg"
 ---
 
 Gemini CEO Cameron Winklevoss demanded the removal of Digital Currency Group CEO Barry Silbert in another open letter,  in response to the frozen funds of the exchange's Earn users.
