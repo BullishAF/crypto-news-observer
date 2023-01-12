@@ -14,8 +14,8 @@ The SEC says Gemini acted as the agent to facilitate the transactions. Gemini al
 
 
 SEC Chair Gary Gensler:
- > “Today’s charges build on previous actions to make clear to the marketplace and the investing public that crypto lending platforms and other intermediaries need to comply with our time-tested securities laws.” 
- > “Doing so best protects investors. It promotes trust in markets. It’s not optional. It’s the law.” 
+ > Today’s charges build on previous actions to make clear to the marketplace and the investing public that crypto lending platforms and other intermediaries need to comply with our time-tested securities laws. 
+ > Doing so best protects investors. It promotes trust in markets. It’s not optional. It’s the law.
 
 Genesis, who was holding about $900 million in investor assets, announced in November of 2022 that it would not allow Gemini Earn investors to withdraw their crypto because it could not meet withdrawal requests. 
 Gemini ended the program with Genesis earlier this month. Retail investors in Gemini Earn have yet to be able to withdraw their assets.
