@@ -8,7 +8,7 @@ heroImage: "/sbfftx.jpg"
 
 Sam Bankman-Fried released a [new post Thursday morning on Substack](https://sambf.substack.com/p/ftx-pre-mortem-overview) to give his take on what led to the collapse of FTX.
 
-He denied stealing funds and said the reason for the crypto fund he founded, Alameda Research collapsed was the overall financial market meltdown which included crypto and the stock market. He also said Alameda wasn't hedged enough.
+He denied stealing funds and said the reason the crypto fund he founded, Alameda Research collapsed was the overall financial market meltdown which included crypto and the stock market. He also said Alameda wasn't hedged enough.
 
 SBF:
 
