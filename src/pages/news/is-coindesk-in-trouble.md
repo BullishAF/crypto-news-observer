@@ -12,4 +12,4 @@ CoinDesk has covered DCG, the federal investigation, and the issues at Genesis. 
 
 Amanda Cowie, the head of communications at Digital Currency Group, declined to comment on the probe. She, however, stated that their firm was not involved in CoinDesk’s editorial decisions. 
 
-Coindesk was first to publish a scoop on FTX suggesting that its sister company, Alameda research, could be in financial trouble. What followed was a series of concerns. Alameda and FTX filed for bankruptcy a week later and Bankman-Fried is now facing federal fraud charges.
+Coindesk was first to publish a scoop on FTX, suggesting that Sam Bankman-Fried's other company, crypto fund Alameda Research, could be in financial trouble. Both FTX and Alameda Research filed for bankruptcy a week later and Bankman-Fried is now facing federal fraud charges.
