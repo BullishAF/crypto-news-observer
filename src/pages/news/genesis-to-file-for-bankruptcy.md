@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/PostLayout.astro"
 title: "BREAKING: Genesis to file for Bankruptcy"
-description: "Digital Coin Group subsidiary Genesis Trading will file for bankruptcy according to Bloomberg"
+description: "Digital Currency Group subsidiary Genesis Trading will file for bankruptcy according to Bloomberg"
 pubDate: "Jan 18 2023"
 heroImage: "/genesis1.jpg"
 ---
