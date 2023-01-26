@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/PostLayout.astro"
 title: "Tesla kept Bitcoin on balance sheet in Fourth Quarter"
-description: "Elon Musk's electric vehicle company didn't sell Bitcoin in the second half of 2022 despite reducing holdings by 75% in the first quarter"
+description: "Elon Musk's electric vehicle company didn't sell Bitcoin in the second half of 2022 despite reducing holdings by 75% in the first half"
 pubDate: "Jan 26 2023"
 heroImage: "/teslabitcoin.jpg"
 ---
