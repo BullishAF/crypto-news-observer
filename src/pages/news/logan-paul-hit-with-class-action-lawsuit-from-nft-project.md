@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Logan Paul hit with class Action lawsuit from CryptoZoo NFT project"
+title: "Logan Paul hit with class action lawsuit from CryptoZoo NFT project"
 description: "Lawsuit alleges that Paul and other defendants executed a rug pull"
 pubDate: "Feb 3 2023"
 heroImage: "/loganpaul.jpg"
