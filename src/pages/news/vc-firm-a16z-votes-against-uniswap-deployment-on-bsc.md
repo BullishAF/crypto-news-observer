@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "VC firm A16z votes against Uniswap deployment on Binance Smart Chain"
+title: "VC firm a16z votes against Uniswap deployment on Binance Smart Chain"
 description: "Used 15 million UNI governance tokens to vote against proposal that would use the wormhole bridge for Uniswap deployment on Binance Smart Chain"
 pubDate: "Feb 6 2023"
 heroImage: "/a16z.jpg"
