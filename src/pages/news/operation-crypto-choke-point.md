@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Operation crypto choke point"
+title: "Operation Crypto Choke Point"
 description: "Are US regulators pressuring banks to deny crypto firms banking services?"
 pubDate: "Feb 8 2023"
 heroImage: "/chokepoint.jpeg"
