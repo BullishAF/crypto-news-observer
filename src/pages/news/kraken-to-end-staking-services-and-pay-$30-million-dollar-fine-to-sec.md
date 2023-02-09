@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 title: "Kraken to end crypto staking and pay $30 Million fine to SEC"
 description: "Crypto exchange Kraken has agreed to pay the SEC $30 million and halt its staking service"
-pubDate: "Feb 6 2023"
+pubDate: "Feb 9 2023"
 heroImage: "/kraken.jpeg"
 ---
 
